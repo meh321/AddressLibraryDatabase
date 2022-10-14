@@ -1,5 +1,5 @@
 # Address Library Database
-The Address Library Database helps facilitate the sharing of function and static variable names between Skyrim Anniversary Edition IDA databases. It is loaded by the Address Library Manager that is distributed in the `resources` channel of the `SkyrimSE RE` Discord server. Game versions 1.6.317.0 and later are supported by assigning names to [Address Library](https://www.nexusmods.com/skyrimspecialedition/mods/32444) identifiers.
+The Address Library Database helps facilitate the sharing of function and static variable names between Skyrim Anniversary Edition IDA databases. It is loaded by the [Address Library Manager](https://github.com/meh321/AddressLibraryManager/releases) and supports game versions 1.6.317.0 and later by assigning names to [Address Library](https://www.nexusmods.com/skyrimspecialedition/mods/32444) identifiers.
 
 The Address Library Database consists of a `relib` file and a `rename` file. The `relib` file contains a list of identifiers and their paired offsets for each version of the game, and the `rename` file contains a list of identifiers and their paired names.
 
